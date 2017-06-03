@@ -28,6 +28,7 @@ Todas las personas se encuentran invitadas a agregar nuevos links de sitios dond
 * ESL: http://statweb.stanford.edu/~tibs/ElemStatLearn/
 * Information Theory: http://www.inference.phy.cam.ac.uk/itprnn/book.pdf
 * Reinforced Learning: http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf
+* An introduction to statistical learning: http://www-bcf.usc.edu/~gareth/ISL/
 
 ## Podcasts
 * Talking Machines: http://www.thetalkingmachines.com
